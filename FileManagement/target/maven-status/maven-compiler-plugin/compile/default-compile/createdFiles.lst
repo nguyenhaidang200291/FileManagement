@@ -1,0 +1,4 @@
+com\assignment1\dto\mapper\DBFileMapperImpl.class
+com\assignment1\dto\mapper\UserRoleMapperImpl.class
+com\assignment1\dto\mapper\AppUserMapperImpl.class
+com\assignment1\dto\mapper\AppRoleMapperImpl.class
